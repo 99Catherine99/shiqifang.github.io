@@ -1,2 +1,1 @@
-# shiqifang.github.io
-github page
+# stats4finance
